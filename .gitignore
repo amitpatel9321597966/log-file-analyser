@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Build output
+dist/
+dist-ssr/
+build/
+*.local
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# System & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local tests & temporary screenshots
+test-responsive.mjs
+screenshots/
